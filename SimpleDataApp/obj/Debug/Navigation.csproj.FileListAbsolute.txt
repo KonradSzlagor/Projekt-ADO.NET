@@ -1,0 +1,12 @@
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.pdb
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\Navigation.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.FillOrCancel.resources
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.NewCustomer.resources
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Navigation.resources
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\Navigation.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.exe
+C:\Users\Konrad\Desktop\Informatyka Stosowana\V semestr\Technologia NET i C#\Projekt\Konrad\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.pdb
